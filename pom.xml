@@ -67,20 +67,15 @@
             </plugin>
         </plugins>
     </build>
+    <dependencies>
+        <dependency>
+        	<groupId>junit</groupId>
+        	<artifactId>junit</artifactId>
+        	<version>4.11</version>
+        </dependency>
+    </dependencies>
 
     <reporting>
         <outputDirectory>${project.build.directory}/site</outputDirectory>
     </reporting>
-    <profiles>
-        <profile>
-            <id>release-profile</id>
-            <activation>
-                <property>
-                    <name>performRelease</name>
-                    <value>true</value>
-                </property>
-            </activation>
-        </profile>
-    </profiles>
-
 </project>

@@ -1,5 +1,7 @@
 package com.durian.controller;
 
+import org.junit.Test;
+
 /**
  * User: johndoe
  * Date: 12/29/13
@@ -7,6 +9,7 @@ package com.durian.controller;
  */
 public class RegisterControllerTest {
 
+    @Test
     public void testStub(){
 
     }
