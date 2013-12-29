@@ -1,5 +1,6 @@
 package com.durian.controller;
 
+import org.junit.BeforeClass;
 import org.junit.Test;
 
 /**
@@ -11,6 +12,11 @@ public class RegisterControllerTest {
 
     @Test
     public void testStub(){
+
+    }
+
+    @BeforeClass
+    public static void setup() {
 
     }
 }
