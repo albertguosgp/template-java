@@ -10,5 +10,6 @@ public class RegisterController {
         System.out.print("modified for merging with master branch");
         System.out.println("this is only for restful branch");
         System.out.println("restful branch go 1");
+        System.out.println("restful branch go 2");
     }
 }
