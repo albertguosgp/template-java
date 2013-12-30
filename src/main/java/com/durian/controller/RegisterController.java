@@ -10,5 +10,6 @@ public class RegisterController {
         System.out.print("master modified it");
         System.out.println("this is only for restful branch");
         System.out.println("master go 1");
+        System.out.println("master go 2");
     }
 }
