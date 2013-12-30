@@ -8,5 +8,7 @@ package com.durian.controller;
 public class RegisterController {
     public static void main(String[] args) {
         System.out.print("hello");
+        System.out.println("this is only for restful branch");
+
     }
 }
