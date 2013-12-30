@@ -74,7 +74,7 @@
                     <webResources>
                         <resource>
                             <!-- this is relative to the pom.xml directory -->
-                            <directory>scripts</directory>
+                            <directory>src/main/scripts</directory>
                         </resource>
                     </webResources>
                 </configuration>
