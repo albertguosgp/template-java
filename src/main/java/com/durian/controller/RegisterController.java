@@ -13,5 +13,6 @@ public class RegisterController {
         System.out.println("restful branch go 2");
         System.out.println("master go 1");
         System.out.println("master go 2");
+        System.out.println("master goes one step more");
     }
 }
